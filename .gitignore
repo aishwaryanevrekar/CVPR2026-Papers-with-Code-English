@@ -1,0 +1,11 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated distribution bundles
+*.zip
